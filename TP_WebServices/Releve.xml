@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<releve>
+    <dateReleve>2022-01-30T08:34:23.226+01:00</dateReleve>
+    <operations>
+        <date>2022-01-30T08:34:23.224+01:00</date>
+        <description>operation 1 (Releve 1)</description>
+        <montant>133.0</montant>
+        <typeOperation>CREDIT</typeOperation>
+    </operations>
+    <operations>
+        <date>2022-01-30T08:34:23.224+01:00</date>
+        <description>operation 2 (Releve 1)</description>
+        <montant>139.0</montant>
+        <typeOperation>VIREMENT</typeOperation>
+    </operations>
+    <operations>
+        <date>2022-01-30T08:34:23.224+01:00</date>
+        <description>operation 3 (Releve 2)</description>
+        <montant>133.0</montant>
+        <typeOperation>CREDIT</typeOperation>
+    </operations>
+    <operations>
+        <date>2022-01-30T08:34:23.224+01:00</date>
+        <description>operation 4 (Releve 2)</description>
+        <montant>133.0</montant>
+        <typeOperation>VIRSEMENT</typeOperation>
+    </operations>
+    <solde>10000.0</solde>
+</releve>
